@@ -1,0 +1,1592 @@
+[
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota UFC - Russas",
+      "status": "Saida Centro de Distribuição",
+      "lastCoordinate": {
+
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ]
+    },
+    "lastCoordinate": {
+
+      "latitude": -4.846179287101671,
+      "longitude": -37.785691254903966
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.849763868625255,
+        "longitude": -37.79919598106403
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.849763868625255,
+        "longitude": -37.79919598106403
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.855023521228213,
+        "longitude": -37.813220144548765
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.855023521228213,
+        "longitude": -37.813220144548765
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.852924727509366,
+        "longitude": -37.822394909742194
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.852924727509366,
+        "longitude": -37.822394909742194
+      }
+    }
+  },
+  {
+    "id": 1,
+    "equipment": {
+      "id": 1,
+      "name": "Rota Teste PUT",
+      "status": "Teste",
+      "lastCoordinate": {
+
+        "latitude": -4.84281410090877,
+        "longitude": -37.83902290629591
+      }
+    },
+    "name": "Rota Teste PUT",
+    "stops": [
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846593119313565,
+        "longitude": -37.782383039875235
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.846179287101671,
+        "longitude": -37.785691254903966
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.843039862069841,
+        "longitude": -37.784831978273125
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.8419981404883865,
+        "longitude": -37.78223982703597
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.839215451776017,
+        "longitude": -37.78119437392202
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.83703021925808,
+        "longitude": -37.772380199734144
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.835698257755387,
+        "longitude": -37.78319548599562
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.838604352149532,
+        "longitude": -37.7850790470985
+      },
+      {
+        "id": 4,
+        "address": "Rota Teste PUT",
+        "latitude": -4.845082476108717,
+        "longitude": -37.79405127934276
+      }
+    ],
+    "acessPoint": {
+      "id": 48,
+      "latitude": 50,
+      "longitude": 50,
+      "coordinates": [
+        {
+          "equipmentId": 1,
+          "latitude": 50,
+          "longitude": 50,
+          "datePing": "2020-12-12T17:42:06.774Z"
+        }
+      ],
+      "lastCoordinate": {
+
+        "latitude": -4.84281410090877,
+        "longitude": -37.83902290629591
+      }
+    }
+  }
+]
